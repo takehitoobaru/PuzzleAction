@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Wall
+  - LadderTop
+  - LadderBottom
+  - TreeTop
+  - TreeBottom
+  - Tree
+  - MoveBlock
+  - Enemy
+  - Button
+  - Item
+  - ItemSet
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - GroundChecker
+  - Block
+  - Ladder
+  - CameraMoveArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 1224723345
+    locked: 0
+  - name: Mid
+    uniqueID: 1373038667
+    locked: 0
+  - name: For
+    uniqueID: 2032269649
+    locked: 0
